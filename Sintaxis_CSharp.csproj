@@ -8,8 +8,8 @@
   </PropertyGroup>
   <ItemGroup>
   <Compile Remove="RETO_*/**" />
-  <Compile Remove="TALLER_*/**" />
-  <Compile Remove="PROYECTO_*/**" />
+  <Compile Remove="Ejercicio_*/**" />
+  
 </ItemGroup>
 
 </Project>
